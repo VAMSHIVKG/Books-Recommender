@@ -1,6 +1,8 @@
 # Hybrid Book Recommendation System
 
-A brief description of what this project does and who it's for
+This academic project implements a Hybrid Book Recommendation System using Collaborative Filtering and Content-Based Filtering. It provides users with top-rated books and personalized recommendations based on their customer ID.
+
+As the team lead, I guided the project from development to deployment, ensuring efficient recommendation generation and a user-friendly interface.
 
 ## 📌 Overview
 
